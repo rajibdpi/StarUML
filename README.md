@@ -24,7 +24,3 @@ _**Do not forget to give me⭐**_
 
 Have done!
 ![image](https://github.com/rajibdpi/StarUML/blob/main/starUML.png?raw=true)
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/K1ethoang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="K1ethoang" /></a></p><b
