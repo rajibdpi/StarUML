@@ -23,7 +23,7 @@ _**Do not forget to give me⭐**_
 	- Update `app.asar` file for V6.3.0
 
 Have done!
-![image](https://gist.github.com/assets/88199151/62c0e030-491e-418d-9fc9-54c04c3640cc)
+![image](https://github.com/rajibdpi/StarUML/blob/main/starUML.png?raw=true)
 
 
 <h3 align="left">Support:</h3>
